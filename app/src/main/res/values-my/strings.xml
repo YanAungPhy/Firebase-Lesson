@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="app_name">TestApplication</string>
+        <string name="home">မူရင်း</string>
+        <string name="profile">ကိုယ်ရေးအချက်အလက်</string>
+        <string name="setting">ဆက်တင်</string>
+        <string name="search">ရှာရန်</string>
+        <!-- TODO: Remove or change this placeholder text -->
+        <string name="hello_blank_fragment">Hello blank fragment</string>
+        <string name="well_come_to_our_application">Well come to our application</string>
+        <string name="note">မှတ်စု</string>
+        <string name="new_text_note">မှတ်စုအသစ်</string>
+        <string name="add_new_note">မှတ်စုအသစ်ရေးရန်</string>
+        <string name="title">ခေါင်းစဉ်</string>
+        <string name="description">ဖော်ပြချက်</string>
+        <string name="email_address">အီးမေး</string>
+        <string name="password">စကားဝှက်</string>
+        <string name="login">လော့အင်</string>
+        <string name="forgot_passwrod">စကားဝှက်မေ့နေပါသလား</string>
+        <string name="full_name">နာမည်အပြည့်အစုံ</string>
+        <string name="age">အသက်</string>
+        <string name="register_user">အကောက်ဖွင့်ရန်</string>
+        <string name="phone_number">ဖုန်းနာပါတ်</string>
+        <string name="register">အကောက်ဖွင့်ရန်</string>
+        <string name="logout">အကောက်မှထွက်ရန်</string>
+        <string name="camera">ကင်မရာ</string>
+</resources>
